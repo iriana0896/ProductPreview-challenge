@@ -48,7 +48,7 @@ I would like to continue focusing and improving on flexbox and grid css in my fu
 ### Useful resources
 
 - [Kevin Powell's Youtube Channel](https://www.youtube.com/kepowob/) - His channel really helped me understand responsive website concept.
-- [Mr. Sandhika Galih's Youtube Channel](https://www.youtube.com/c/WebProgrammingUNPAS/) - My always go-to channel. One of Indonesian's YT for learning frontend web dev languages especially from the basics.
+- [Mr. Sandhika Galih's Youtube Channel](https://www.youtube.com/c/WebProgrammingUNPAS/) - My always go-to channel. One of Indonesian's YT for learning frontend web dev especially from the basics.
 
 ## Author
 

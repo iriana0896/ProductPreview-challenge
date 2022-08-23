@@ -158,4 +158,8 @@ footer > p > * {
         margin-top: 1.2rem;
     }
 
+    footer {
+        display: none; 
+    }
+
 }

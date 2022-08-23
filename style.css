@@ -142,16 +142,20 @@ footer > p > * {
 @media screen and (min-width: 40em) {
     .container {
         flex-direction: row;
-        min-width: 550px;
-        max-width: 550px;
+        min-width: 600px;
+        max-width: 600px;
     }
 
     .container > * {
         flex: 1 1 100%;
     }
 
+   .product-details {
+        padding: 0 2.5rem;
+    }
+
     .product-details > * {
-        margin-top: 1rem;
+        margin-top: 1.3rem;
     }
 
 }

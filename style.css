@@ -98,7 +98,7 @@ img {
     margin-left: 20px;
 }
 
-.product-details > button {
+button {
     background-color: var(--color-primary-medium);
     color: var(--color-neutral-light);
     width: 100%;
@@ -115,16 +115,27 @@ img {
     cursor: pointer;
 }
 
-.product-details > button::before {
+button::before {
     content: url(images/icon-cart.svg);
     margin-right: 10px;
 }
 
-.product-details > button:hover,
-.product-details > button:focus {
+button:hover,
+button:focus {
     background-color: hsl(158, 36%, 20%);
 }
 
+footer {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.8rem;
+    text-align: center;
+    position: absolute;
+    bottom: 5px;
+}
+
+footer > p > * {
+    color: var(--color-primary-medium);
+}
 
 /* Media Query Breakpoint for Responsive Layout */
 

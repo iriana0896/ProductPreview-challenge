@@ -29,6 +29,7 @@ body {
     justify-content: center;
     align-items: center;
     margin-inline: auto;
+    position: relative;
 }
 
 img {
@@ -125,7 +126,6 @@ button:focus {
 }
 
 footer {
-    display: none;
     font-family: 'Montserrat', sans-serif;
     font-size: 0.8rem;
     text-align: center;
@@ -159,7 +159,7 @@ footer > p > * {
         margin-top: 1.6rem;
     }
     
-    footer {
+    /* footer {
         display: block;
-    }
+    } */
 }

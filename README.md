@@ -39,7 +39,9 @@ Users should be able to:
 
 ### What I learned
 
-Through this project I learned how to use HTML elements such as picture and source element to show different image sizes on different screen sizes.
+Through this project I learned how to use:
+- HTML elements such as picture and source element to show different image sizes on different screen sizes.
+- Flexbox properly
 
 ### Continued development
 

@@ -130,7 +130,8 @@ footer {
     font-size: 0.8rem;
     text-align: center;
     position: absolute;
-    bottom: 5px;
+    bottom: 0;
+    margin: 2rem;
 }
 
 footer > p > * {
@@ -147,15 +148,15 @@ footer > p > * {
     }
 
     .container > * {
-        flex: 1 1 100%;
+        flex: 1 1 300px;
     }
 
    .product-details {
-        padding: 0.5rem 2.5rem 0;
+        padding: 0.5rem 2rem 0;
     }
 
     .product-details > * {
-        margin-top: 1.2rem;
+        margin-top: 1.5rem;
     }
     
     footer {

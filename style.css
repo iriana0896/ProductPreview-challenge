@@ -7,7 +7,6 @@
     --color-neutral-light: hsl(0, 0%, 100%);
     --color-neutral-medium: hsl(228, 12%, 48%);
     --color-neutral-dark: hsl(212, 21%, 14%);
-
 }
 
 
@@ -126,6 +125,7 @@ button:focus {
 }
 
 footer {
+    display: none;
     font-family: 'Montserrat', sans-serif;
     font-size: 0.8rem;
     text-align: center;
@@ -156,5 +156,9 @@ footer > p > * {
 
     .product-details > * {
         margin-top: 1.2rem;
+    }
+    
+    footer {
+        display: block;
     }
 }

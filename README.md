@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - [Repository URL](https://github.com/iriana0896/ProductPreview-challenge)
-- [Live Site URL](https://productpreview-challenge-by-iriana.netlify.app/)
+- [Live Site URL](https://productpreview-solution-by-iriana.netlify.app)
 
 ## My process
 
